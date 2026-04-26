@@ -128,7 +128,7 @@ without any special hardware requirements.
 ```bash
 # 1. Clone the repository
 https://github.com/alekhya-1-24/Doc-QA-Bot.git
-cd Doc-Q&A-Bot
+cd Doc-Q&A-bot
 
 # 2. Create and activate a virtual environment
 python -m venv venv
