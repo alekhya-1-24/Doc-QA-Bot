@@ -127,8 +127,8 @@ without any special hardware requirements.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/Q&A_Bot
-cd Q&A_Bot
+https://github.com/alekhya-1-24/Doc-QA-Bot.git
+cd Doc-Q&A-Bot
 
 # 2. Create and activate a virtual environment
 python -m venv venv
