@@ -166,8 +166,8 @@ GROQ_API_KEY=your_groq_api_key_here
 3. Navigate to API Keys → Create API Key
 4. Copy the key and paste it into your `.env` file
 
-The `.env.example` file in this repo shows the required format with a placeholder value. 
-Never paste your actual key into `.env.example` or any file that gets committed to GitHub.
+The `.env` file in this repo shows the required format with a placeholder value. 
+Never paste your actual key into `.env` or any file that gets committed to GitHub.
 
 ## Example Queries
 
