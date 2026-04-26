@@ -180,7 +180,7 @@ Never paste your actual key into `.env` or any file that gets committed to GitHu
 | 5 | What does Sun Tzu say about using spies? | Five types of spies, importance of secret information, divine manipulation |
 | 6 | What is the latest iPhone model? | Bot responds: "I couldn't find this in the provided documents" |
 
-Query 6 is intentional — it demonstrates the bot's hallucination prevention. The system 
+Query 6 is intentional it demonstrates the bot's hallucination prevention. The system 
 will not answer from general knowledge if the information is not present in the indexed documents.
 
 ## Known Limitations
